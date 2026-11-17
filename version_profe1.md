@@ -38,7 +38,7 @@ Este proyecto presenta un **Análisis Exploratorio de Datos (EDA)** sobre el com
 
 | Métrica | 2024 | 2025 | Variación |
 
-| :--- | :---: | :---: | ---: |
+| :---------- | :-----------: | :----------: | --------: |
 
 | **Ingresos Totales** | $450,000 | $585,000 | +30.0% |
 
